@@ -1,0 +1,54 @@
+{
+  "streams": [
+    {
+      "title": "test",
+      "description": "test",
+      "id": 1
+    },
+    {
+      "title": "Bamboozle",
+      "description": "For real though no bamboozle",
+      "id": 2
+    },
+    {
+      "title": "Bamboozle 2",
+      "description": "For real though no bamboozle",
+      "id": 3
+    },
+    {
+      "title": "Dank Meme Stream",
+      "description": "swag",
+      "id": 4
+    },
+    {
+      "title": "Banana",
+      "description": "potato",
+      "userId": "112602840041054495618",
+      "id": 8
+    },
+    {
+      "title": "Banana",
+      "description": "potato",
+      "userId": "112602840041054495618",
+      "id": 9
+    },
+    {
+      "title": "2345",
+      "description": "potato",
+      "userId": "112602840041054495618",
+      "id": 10
+    },
+    {
+      "title": "Albus dumbledore",
+      "description": "swag city",
+      "userId": "112602840041054495618",
+      "id": 11
+    },
+    {
+      "title": "Testing after refactor",
+      "description": "oh boy oh boy",
+      "userId": "112602840041054495618",
+      "id": 12
+    }
+  ]
+}
